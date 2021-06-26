@@ -1,0 +1,41 @@
+body{
+background-image: url("1.jpg");
+background-position: center;
+background-size: cover;
+}
+.heading{
+font-size: 25px;
+width: 100%;
+margin: 0px;
+box-shadow: 5px 5px 5px chocolate;
+}
+.heading_div{
+float: none;
+background-color: white;
+padding: 10px;
+border-radius: 20px;
+color: black;
+box-shadow: 5px 5px 5px chocolate;
+}
+.heading_div2{
+    font-size: 20px;
+}
+.result_para_tag{
+font-size: 20px;
+box-shadow: 5px 5px 5px chocolate;
+}
+.footer{
+bottom: 0;
+position: fixed;
+color: white;
+width: 100%;
+background-color: goldenrod;
+line-height: 3;
+text-align: center;
+}
+canvas{
+border: 5px solid white;
+border-radius: 20px;
+box-shadow: 5px 5px 5px chocolate;
+margin-top: 200px;
+}
